@@ -14,7 +14,9 @@ html{
 
 body{
     font-family: 'Poppins', sans-serif;
+}
 
+main, header{
     max-width: 1200px;
     margin: 0 auto;
 }
@@ -172,4 +174,20 @@ a{
     padding: 1rem 2rem;
     border-radius: 1rem;
     margin-top: 0.5rem;
+}
+
+
+
+
+
+
+
+
+footer{
+    font-size: 1.5rem;
+    background-color: #efefefef;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 10rem;
 }
